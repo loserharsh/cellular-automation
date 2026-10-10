@@ -1,0 +1,15 @@
+# Compiled binaries
+CA
+CA.exe
+a.out
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+
+# Editor / IDE folders
+.vscode/
+.idea/
+*.swp
